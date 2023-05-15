@@ -1,0 +1,10 @@
+.App {
+  margin: 0;
+  padding: 0;
+  background-color: #ebeaec;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  height: 1000000px;
+}
+::-webkit-scrollbar{
+  width: 0px;
+}
